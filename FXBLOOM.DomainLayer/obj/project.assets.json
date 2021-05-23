@@ -1651,11 +1651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj",
       "projectName": "FXBLOOM.DomainLayer",
-      "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj",
+      "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj",
       "packagesPath": "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1676,8 +1676,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj": {
-              "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj"
+            "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj": {
+              "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj"
             }
           }
         }

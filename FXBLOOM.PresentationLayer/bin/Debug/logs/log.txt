@@ -1,9 +1,0 @@
-2021-05-22 16:51:48.0609|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
-2021-05-22 16:51:48.2255|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
-2021-05-22 16:51:48.2608|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.PresentationLayer
-2021-05-22 16:52:50.8598|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
-2021-05-22 16:52:50.9786|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
-2021-05-22 16:52:50.9974|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.PresentationLayer
-2021-05-22 16:55:28.9327|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
-2021-05-22 16:55:28.9894|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
-2021-05-22 16:55:28.9894|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.PresentationLayer

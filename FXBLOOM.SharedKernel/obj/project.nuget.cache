@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1/qGg61uKubjQn0S5L4oYUzGTMmBgcwHFDB2ixtdBnjly5TYF5Q7UjRR/1trdIaDJZmk3oaRFErhG6owo4UhMg==",
+  "dgSpecHash": "wwDnqThL+Axsr/eybqXEChOJ8v4kgCVWfExif0gbyH7KJNlRRVNpeC6Omqzmib9ZqshNPXYHOtm2ADW439WfwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj",
+  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.InfrastructureLayer\\FXBLOOM.InfrastructureLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.InfrastructureLayer\\FXBLOOM.InfrastructureLayer.csproj",
       "projectName": "FXBLOOM.InfrastructureLayer",
-      "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.InfrastructureLayer\\FXBLOOM.InfrastructureLayer.csproj",
+      "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.InfrastructureLayer\\FXBLOOM.InfrastructureLayer.csproj",
       "packagesPath": "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.InfrastructureLayer\\obj\\",
+      "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.InfrastructureLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

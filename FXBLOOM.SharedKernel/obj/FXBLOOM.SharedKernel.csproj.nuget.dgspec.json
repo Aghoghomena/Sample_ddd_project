@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj": {}
+    "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj": {
+    "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj",
         "projectName": "FXBLOOM.SharedKernel",
-        "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj",
+        "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\FXBLOOM.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.SharedKernel\\obj\\",
+        "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

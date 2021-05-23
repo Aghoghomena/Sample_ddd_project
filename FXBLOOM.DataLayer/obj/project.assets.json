@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DataLayer\\FXBLOOM.DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DataLayer\\FXBLOOM.DataLayer.csproj",
       "projectName": "FXBLOOM.DataLayer",
-      "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DataLayer\\FXBLOOM.DataLayer.csproj",
+      "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DataLayer\\FXBLOOM.DataLayer.csproj",
       "packagesPath": "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1582,8 +1582,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj": {
-              "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj"
+            "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj": {
+              "projectPath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj"
             }
           }
         }

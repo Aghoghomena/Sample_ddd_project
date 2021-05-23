@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Py4Xhq4APN/d5AXFwUvOkDqkeew42t2ZFZxlQY2X5kVtGKf1MLLvC7UDsNLD1hZcubr5csbS07paZSOfgBIRZA==",
+  "dgSpecHash": "b9162v1oOiwF1v219UNCB0SL95s8x7Khhfk7qe1nvJRZwAIP5f01t21uY8B4rELUPaGJsWvgqoblgpNH1WUXdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj",
+  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.DomainLayer\\FXBLOOM.DomainLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

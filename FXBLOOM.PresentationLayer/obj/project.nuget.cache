@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rBraZo5+ruqtlH6DOXvhvC3Q65DQMH3ZqAILEL6b1CrhMjB+rWzmZOgQVmjNCWz09hQrqKdFEGc7xSGMje+4nQ==",
+  "dgSpecHash": "IHihdOHYhaaxn9nyR67G0iWv7z9979Y161vtKujUiceb/KS6Qt1YoN615u/bJXg/4ie3nMszXdSi/DojRGkQLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.PresentationLayer\\FXBLOOM.PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\Sample_ddd_project\\FXBLOOM.PresentationLayer\\FXBLOOM.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
