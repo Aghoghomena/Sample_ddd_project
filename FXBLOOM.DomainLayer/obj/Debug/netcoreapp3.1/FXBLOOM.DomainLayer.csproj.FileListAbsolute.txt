@@ -1,0 +1,12 @@
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\bin\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.deps.json
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\bin\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\bin\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.pdb
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.csprojAssemblyReference.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.AssemblyInfo.cs
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.pdb
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\bin\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\bin\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.pdb
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.DomainLayer\obj\Debug\netcoreapp3.1\FXBLOOM.DomainLayer.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\bin\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.deps.json
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\bin\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\bin\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.pdb
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\obj\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.csprojAssemblyReference.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\obj\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\obj\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\obj\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.AssemblyInfo.cs
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\obj\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.SharedKernel\obj\Debug\netcoreapp3.1\FXBLOOM.SharedKernel.pdb

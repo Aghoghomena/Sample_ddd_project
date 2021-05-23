@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWkd5amsLuWuXpGfb74HGLEG54/uxA6Vqhp9sH7pttqgp9DXY/pGzQ13d7YZaIl9N/f20FnsDfB0KEULnOi71A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emmanuel.Mgbemena\\source\\repos\\FXBLOOM\\FXBLOOM.ApplicationLayer\\FXBLOOM.ApplicationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel.Mgbemena\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

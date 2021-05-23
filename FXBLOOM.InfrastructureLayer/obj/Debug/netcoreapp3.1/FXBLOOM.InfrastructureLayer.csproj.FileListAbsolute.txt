@@ -1,0 +1,9 @@
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\bin\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.deps.json
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\bin\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\bin\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.pdb
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\obj\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.csprojAssemblyReference.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\obj\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\obj\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\obj\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.AssemblyInfo.cs
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\obj\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.dll
+C:\Users\Emmanuel.Mgbemena\source\repos\FXBLOOM\FXBLOOM.InfrastructureLayer\obj\Debug\netcoreapp3.1\FXBLOOM.InfrastructureLayer.pdb
